@@ -8,3 +8,4 @@
 * Команда checkout
 * Команда branch
 * Команда diff
+* Команда merge
