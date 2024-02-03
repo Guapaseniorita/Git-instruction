@@ -7,5 +7,3 @@
 * Команда log
 * Команда checkout
 * Команда branch
-
->>>>>>> title
