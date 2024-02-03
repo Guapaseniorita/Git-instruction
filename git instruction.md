@@ -6,4 +6,5 @@
 * Команда log
 * Команда checkout
 * Команда branch
+* Команда merge
 
